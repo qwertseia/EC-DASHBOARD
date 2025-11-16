@@ -219,12 +219,3 @@ function App() {
 
 export default App;
 
-
-/*
-Reflection:
-The most enjoyable component to design was the Profile Card, because adding visuals makes the interface feel real.
-The hardest part was balancing spacing and layout to make it look professional.
-Material-UI makes it easy to maintain consistency and responsive design.
-Working with React components and Material-UI has shown me how modern web development can create polished, interactive dashboards.
-This project demonstrates real-world application of component-based architecture for building scalable user interfaces.
-*/
